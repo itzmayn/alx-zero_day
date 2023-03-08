@@ -1,2 +1,6 @@
 #!/bin/bas
+<<<<<<< HEAD
 echo "ALX School is so cool!"
+=======
+echo "ALX School"
+>>>>>>> 231067d8c54a7afcf9cebca9862278d558de4190
